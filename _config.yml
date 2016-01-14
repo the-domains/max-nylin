@@ -1,0 +1,28 @@
+name: Max Nylin
+favicon: null
+layout_spectrum: 0.5308163375593722
+typography_spectrum: 0.5946009068284184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.07706783339381218
+  lightness: 0.22625384712591767
+  saturation: 0.1427475418895483
+  rhythmicContrast: 0.46023163781501353
+purpose: []
