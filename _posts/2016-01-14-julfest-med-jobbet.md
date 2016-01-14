@@ -6,20 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T11:03:14.542Z'
-dateModified: '2016-01-14T11:03:01.234Z'
+datePublished: '2016-01-14T11:05:18.882Z'
+dateModified: '2016-01-14T11:05:00.488Z'
 title: Julfest med jobbet
 author: []
+sourcePath: _posts/2016-01-14-julfest-med-jobbet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-julfest-med-jobbet.md
-published: true
 url: julfest-med-jobbet/index.html
 _type: Article
 
 ---
 Idag hade vi julfest med jobbet, alla skäggisar var med på bild.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f706ddb-1ec6-41fa-a15b-0bb8071b8909.jpg)
